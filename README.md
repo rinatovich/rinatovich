@@ -2,10 +2,7 @@
 I'm junior web developer with ambitions to develop my skills 
 
 ### My key skills
-- HTML | CSS | JavaScript 
-- Python 
-- Node.js
-- Django Framework
+- intusiasm
 
 > In my github you can find some projects that i was working on, some of them are private because of corporate secret
 
